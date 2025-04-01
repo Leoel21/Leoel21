@@ -12,7 +12,7 @@
 
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,astro,python,netlify,git,github,bash,pnpm,figma,vscode,notion,obsidian,linux,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,python,netlify,git,github,bash,pnpm,figma,vscode,notion,obsidian,linux,&theme=light)](https://skillicons.dev)
 
 
 
